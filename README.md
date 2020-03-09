@@ -1,1 +1,2 @@
-# covid_dataviz
+# COVID-19 visualization(s)
+As many data scientists I also had to play a little with the data of the current COVID-19 spread... 
